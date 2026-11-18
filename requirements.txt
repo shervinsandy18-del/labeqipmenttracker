@@ -1,0 +1,40 @@
+EquipTrack - Requirements
+==========================
+
+Software Requirements:
+----------------------
+
+1. C++ Compiler (GCC / MinGW)
+   - Minimum version: GCC 8+ (C++17 support)
+   - Windows: MinGW-w64 (https://www.mingw-w64.org/)
+   - Linux: build-essential package (sudo apt install build-essential)
+   - Mac: Xcode Command Line Tools (xcode-select --install)
+
+2. VS Code (recommended editor)
+   - Download: https://code.visualstudio.com/
+
+3. Web Browser
+   - Chrome, Firefox, Edge, or any modern browser
+
+4. Internet connection
+   - Required only for loading Chart.js from CDN
+   - Not required for the C++ backend
+
+C++ Libraries Used:
+-------------------
+   - <iostream>     (console output)
+   - <fstream>      (file I/O for CSV)
+   - <sstream>      (string stream parsing)
+   - <string>       (string operations)
+   - <vector>       (dynamic array for equipment list)
+   - <cstring>      (memory operations)
+   - System sockets  (network communication)
+
+   No external C++ libraries or frameworks are required.
+
+Frontend Libraries:
+-------------------
+   - Chart.js 4.4.1 (loaded from CDN)
+     URL: https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js
+
+   No npm packages or build tools are needed.

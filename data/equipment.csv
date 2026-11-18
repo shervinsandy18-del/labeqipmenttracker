@@ -1,0 +1,16 @@
+id,name,category,quantity,location,status
+1,Laptops,Computers,25,Lab Room A,Available
+2,Desktop Computers,Computers,15,Lab Room B,Issued
+3,Projectors,Audio/Visual,8,Conference Hall,Maintenance
+4,Keyboards,Accessories,30,Storage Room 1,Available
+5,Mouse,Accessories,35,Storage Room 1,Available
+6,Printers,Office Equipment,5,Office Floor 2,Issued
+7,Monitors,Computers,20,Lab Room A,Available
+8,Cameras,Audio/Visual,6,Media Center,Maintenance
+9,Laboratory Equipment,Laboratory Equipment,12,Lab Room C,Available
+10,Scanners,Office Equipment,3,Office Floor 1,Available
+11,Headphones,Accessories,18,Storage Room 2,Issued
+12,Webcams,Accessories,10,Storage Room 2,Available
+13,Speakers,Audio/Visual,7,Conference Hall,Available
+14,Microscopes,Laboratory Equipment,4,Lab Room C,Issued
+15,Whiteboards,Office Equipment,12,Office Floor 3,Available
